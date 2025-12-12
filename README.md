@@ -245,8 +245,8 @@ When you are done writing and testing your code:
 ### 4.2. Create a Merge Request
 
 After executing the last command, follow the link and instructions on your terminal to create a merge request.
-1.  Enter the link provided in the address bar of your browser.
-2.  Give your pull request a clear title (e.g., "John Doe's Module").
+1.  Use your browser to access the link provided in your terminal (you need to be connected to your gitlab account on this browser).
+2.  Give your merge request a clear title (e.g., "John Doe's Module").
 3.  In the description, briefly explain what you added and how to test it.
 4.  Click "Create merge request".
 
