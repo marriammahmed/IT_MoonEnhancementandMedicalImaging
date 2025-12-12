@@ -217,6 +217,8 @@ Once you have tested and are happy with all functionalities implementated in you
 
 ### 4.1. Use Git for Version Control
 
+When you are done writing and testing your code:
+
 1.  **Create a new branch** for your feature. This keeps your work separate from the main codebase.
 
     ```bash
@@ -240,12 +242,12 @@ Once you have tested and are happy with all functionalities implementated in you
     git push -u origin feature/john-doe
     ```
 
-### 4.2. Create a Pull Request
+### 4.2. Create a Merge Request
 
-1.  Go to the project's repository page on GitLab.
-2.  You should see a prompt to "Compare & pull request" for your new branch. Click it.
-3.  Give your pull request a clear title (e.g., "John Doe's Module").
-4.  In the description, briefly explain what you added and how to test it.
-5.  Click "Create pull request".
+After executing the last command, follow the link and instructions on your terminal to create a merge request.
+1.  Enter the link provided in the address bar of your browser.
+2.  Give your pull request a clear title (e.g., "John Doe's Module").
+3.  In the description, briefly explain what you added and how to test it.
+4.  Click "Create merge request".
 
-Your pull request will be reviewed and, once approved, merged into the main project. Congratulations, you've successfully contributed and submitted your work to be graded ! See you the next for presentations !
+Your merge request will be reviewed and, once approved, merged into the main project. Congratulations, you've successfully contributed and submitted your work to be graded ! See you the next for presentations !
