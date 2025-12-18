@@ -13,6 +13,11 @@ This project implements classical and scientifically grounded image enhancement 
 1. **Moon Detail Enhancement**: CLAHE, Unsharp Masking, Global Contrast Boost
 2. **Medical Imaging**: Histogram Equaliation
 
+## 📊 Presentation Slides
+
+📌 View the full project slides here:  
+👉 https://drive.google.com/file/d/1lJ7PML2cM8aogNIT9Zcb51ChoAt0xmZM/view?usp=share_link
+
 ---
 ### Blackhole attempts – Algorithm Comparison
 
